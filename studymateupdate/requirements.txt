@@ -1,0 +1,14 @@
+torch==2.2.2
+transformers==4.41.2
+librosa==0.10.0
+soundfile==0.12.1
+pyttsx3==2.90
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+Pillow==10.3.0
+sentencepiece==0.1.99
+pytesseract==0.3.13
+PyMuPDF==1.22.5
+gradio==3.16.2 
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
